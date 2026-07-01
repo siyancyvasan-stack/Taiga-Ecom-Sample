@@ -1,0 +1,6 @@
+{
+  "name": "Taiga",
+  "description": "Taiga Sri Lanka - The ultimate e-commerce marketplace featuring high-energy flash sales, brand hubs, interactive Spin & Win games, and an AI-powered shopping assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
